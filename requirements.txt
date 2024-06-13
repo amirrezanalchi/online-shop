@@ -1,0 +1,6 @@
+Flask
+SQLAlchemy
+requests
+PyJWT
+Werkzeug
+psycopg2-binary
