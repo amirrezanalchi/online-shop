@@ -22,18 +22,14 @@ To run the project locally, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-git clone <repository_url>
-cd <repository_name>
 Install dependencies:
 
-Copy code
 pip install -r requirements.txt
+
 Run the application:
 
-Copy code
 python app.py
+
 Make sure to configure any environment variables or database connections as specified in config.py or environment-specific configuration files.
 
 API Documentation
